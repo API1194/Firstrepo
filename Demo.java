@@ -10,6 +10,9 @@ public class Demo {
 		t.add("L");
 		t.add("M");
 		t.add("N");
+t.add("H");
+		t.add("B");
+		t.add("R");
 		t.add("O");
 		t.add("P");
 		t.add("Q");
